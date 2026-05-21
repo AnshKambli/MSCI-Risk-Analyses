@@ -1,0 +1,161 @@
+city,year,pollutant,value,status,timestamp
+Delhi,2020,Tropospheric NO2 column density,8.006897798586949e-05,success,2026-05-21 08:00:19.796177
+Delhi,2021,Tropospheric NO2 column density,0.00011024193915688315,success,2026-05-21 08:00:19.796183
+Delhi,2022,Tropospheric NO2 column density,0.00010187801311173948,success,2026-05-21 08:00:19.796184
+Delhi,2023,Tropospheric NO2 column density,0.00010384626525709875,success,2026-05-21 08:00:19.796185
+Delhi,2024,Tropospheric NO2 column density,9.87530187637836e-05,success,2026-05-21 08:00:19.796185
+Mumbai,2020,Tropospheric NO2 column density,7.318092313935429e-05,success,2026-05-21 08:00:20.614087
+Mumbai,2021,Tropospheric NO2 column density,8.206028829082437e-05,success,2026-05-21 08:00:20.614093
+Mumbai,2022,Tropospheric NO2 column density,8.706294561761179e-05,success,2026-05-21 08:00:20.614094
+Mumbai,2023,Tropospheric NO2 column density,8.959230830276456e-05,success,2026-05-21 08:00:20.614095
+Mumbai,2024,Tropospheric NO2 column density,8.239581830717885e-05,success,2026-05-21 08:00:20.614096
+Bangalore,2020,Tropospheric NO2 column density,3.816654881627327e-05,success,2026-05-21 08:00:21.455543
+Bangalore,2021,Tropospheric NO2 column density,4.1660897429716895e-05,success,2026-05-21 08:00:21.455548
+Bangalore,2022,Tropospheric NO2 column density,4.325255447658891e-05,success,2026-05-21 08:00:21.455549
+Bangalore,2023,Tropospheric NO2 column density,4.658822736024217e-05,success,2026-05-21 08:00:21.455550
+Bangalore,2024,Tropospheric NO2 column density,4.853121196566741e-05,success,2026-05-21 08:00:21.455550
+Kolkata,2020,Tropospheric NO2 column density,5.8812994962526036e-05,success,2026-05-21 08:00:22.444397
+Kolkata,2021,Tropospheric NO2 column density,7.443119903258019e-05,success,2026-05-21 08:00:22.444401
+Kolkata,2022,Tropospheric NO2 column density,7.172794305574679e-05,success,2026-05-21 08:00:22.444402
+Kolkata,2023,Tropospheric NO2 column density,7.464931307915786e-05,success,2026-05-21 08:00:22.444403
+Kolkata,2024,Tropospheric NO2 column density,6.754592550280527e-05,success,2026-05-21 08:00:22.444404
+Chennai,2020,Tropospheric NO2 column density,3.472119009267548e-05,success,2026-05-21 08:00:23.308455
+Chennai,2021,Tropospheric NO2 column density,4.5462211346337864e-05,success,2026-05-21 08:00:23.308459
+Chennai,2022,Tropospheric NO2 column density,4.8474378566712426e-05,success,2026-05-21 08:00:23.308460
+Chennai,2023,Tropospheric NO2 column density,5.0868948540849613e-05,success,2026-05-21 08:00:23.308461
+Chennai,2024,Tropospheric NO2 column density,4.046127541905016e-05,success,2026-05-21 08:00:23.308461
+Hyderabad,2020,Tropospheric NO2 column density,4.250700617943354e-05,success,2026-05-21 08:00:24.422501
+Hyderabad,2021,Tropospheric NO2 column density,4.920187994001557e-05,success,2026-05-21 08:00:24.422506
+Hyderabad,2022,Tropospheric NO2 column density,5.238430786322954e-05,success,2026-05-21 08:00:24.422507
+Hyderabad,2023,Tropospheric NO2 column density,5.218993925191435e-05,success,2026-05-21 08:00:24.422508
+Hyderabad,2024,Tropospheric NO2 column density,4.998689089780479e-05,success,2026-05-21 08:00:24.422509
+Ahmedabad,2020,Tropospheric NO2 column density,5.35221437311615e-05,success,2026-05-21 08:00:26.501619
+Ahmedabad,2021,Tropospheric NO2 column density,6.987738107436618e-05,success,2026-05-21 08:00:26.501624
+Ahmedabad,2022,Tropospheric NO2 column density,7.06277812146152e-05,success,2026-05-21 08:00:26.501625
+Ahmedabad,2023,Tropospheric NO2 column density,6.998159669775576e-05,success,2026-05-21 08:00:26.501626
+Ahmedabad,2024,Tropospheric NO2 column density,6.677390322802568e-05,success,2026-05-21 08:00:26.501626
+Pune,2020,Tropospheric NO2 column density,4.1728109686709284e-05,success,2026-05-21 08:00:27.310498
+Pune,2021,Tropospheric NO2 column density,4.8550679588921454e-05,success,2026-05-21 08:00:27.310502
+Pune,2022,Tropospheric NO2 column density,4.975758820209204e-05,success,2026-05-21 08:00:27.310503
+Pune,2023,Tropospheric NO2 column density,5.025572351583722e-05,success,2026-05-21 08:00:27.310504
+Pune,2024,Tropospheric NO2 column density,5.172278938901193e-05,success,2026-05-21 08:00:27.310505
+Delhi,2020,Absorbing aerosol index (proxy for dust/pollution),-0.9743187603478597,success,2026-05-21 08:00:28.214930
+Delhi,2021,Absorbing aerosol index (proxy for dust/pollution),-0.3985564046550918,success,2026-05-21 08:00:28.214936
+Delhi,2022,Absorbing aerosol index (proxy for dust/pollution),0.33050688841588793,success,2026-05-21 08:00:28.214938
+Delhi,2023,Absorbing aerosol index (proxy for dust/pollution),0.08521669319537328,success,2026-05-21 08:00:28.214939
+Delhi,2024,Absorbing aerosol index (proxy for dust/pollution),0.0825171169444564,success,2026-05-21 08:00:28.214939
+Mumbai,2020,Absorbing aerosol index (proxy for dust/pollution),-1.2948344789503472,success,2026-05-21 08:00:29.109474
+Mumbai,2021,Absorbing aerosol index (proxy for dust/pollution),-0.8821785073960036,success,2026-05-21 08:00:29.109478
+Mumbai,2022,Absorbing aerosol index (proxy for dust/pollution),-0.09431813251762572,success,2026-05-21 08:00:29.109479
+Mumbai,2023,Absorbing aerosol index (proxy for dust/pollution),-0.19294691740310288,success,2026-05-21 08:00:29.109480
+Mumbai,2024,Absorbing aerosol index (proxy for dust/pollution),-0.2890328275431939,success,2026-05-21 08:00:29.109480
+Bangalore,2020,Absorbing aerosol index (proxy for dust/pollution),-1.4156834658809891,success,2026-05-21 08:00:30.097442
+Bangalore,2021,Absorbing aerosol index (proxy for dust/pollution),-1.1483766116558227,success,2026-05-21 08:00:30.097447
+Bangalore,2022,Absorbing aerosol index (proxy for dust/pollution),-0.4607796609884509,success,2026-05-21 08:00:30.097448
+Bangalore,2023,Absorbing aerosol index (proxy for dust/pollution),-0.4660174761656034,success,2026-05-21 08:00:30.097449
+Bangalore,2024,Absorbing aerosol index (proxy for dust/pollution),-0.5402437868099735,success,2026-05-21 08:00:30.097450
+Kolkata,2020,Absorbing aerosol index (proxy for dust/pollution),-1.3043674553717977,success,2026-05-21 08:00:30.894468
+Kolkata,2021,Absorbing aerosol index (proxy for dust/pollution),-0.8774377907541775,success,2026-05-21 08:00:30.894473
+Kolkata,2022,Absorbing aerosol index (proxy for dust/pollution),-0.14512577977257105,success,2026-05-21 08:00:30.894474
+Kolkata,2023,Absorbing aerosol index (proxy for dust/pollution),-0.3121350204359705,success,2026-05-21 08:00:30.894475
+Kolkata,2024,Absorbing aerosol index (proxy for dust/pollution),-0.38485654040796663,success,2026-05-21 08:00:30.894476
+Chennai,2020,Absorbing aerosol index (proxy for dust/pollution),-1.5113762395904577,success,2026-05-21 08:00:31.722255
+Chennai,2021,Absorbing aerosol index (proxy for dust/pollution),-1.094063459184725,success,2026-05-21 08:00:31.722260
+Chennai,2022,Absorbing aerosol index (proxy for dust/pollution),-0.3720835055241093,success,2026-05-21 08:00:31.722261
+Chennai,2023,Absorbing aerosol index (proxy for dust/pollution),-0.4626278511142246,success,2026-05-21 08:00:31.722262
+Chennai,2024,Absorbing aerosol index (proxy for dust/pollution),-0.5131978145761564,success,2026-05-21 08:00:31.722262
+Hyderabad,2020,Absorbing aerosol index (proxy for dust/pollution),-1.3588028529794742,success,2026-05-21 08:00:37.638777
+Hyderabad,2021,Absorbing aerosol index (proxy for dust/pollution),-1.0258419535188013,success,2026-05-21 08:00:37.638782
+Hyderabad,2022,Absorbing aerosol index (proxy for dust/pollution),-0.2435823692978429,success,2026-05-21 08:00:37.638783
+Hyderabad,2023,Absorbing aerosol index (proxy for dust/pollution),-0.3428203493550503,success,2026-05-21 08:00:37.638783
+Hyderabad,2024,Absorbing aerosol index (proxy for dust/pollution),-0.45779538448126006,success,2026-05-21 08:00:37.638784
+Ahmedabad,2020,Absorbing aerosol index (proxy for dust/pollution),-1.1568808175284249,success,2026-05-21 08:00:59.794997
+Ahmedabad,2021,Absorbing aerosol index (proxy for dust/pollution),-0.699265047673814,success,2026-05-21 08:00:59.795001
+Ahmedabad,2022,Absorbing aerosol index (proxy for dust/pollution),0.15791771514237704,success,2026-05-21 08:00:59.795002
+Ahmedabad,2023,Absorbing aerosol index (proxy for dust/pollution),0.015281487833138624,success,2026-05-21 08:00:59.795003
+Ahmedabad,2024,Absorbing aerosol index (proxy for dust/pollution),-0.05323917692014058,success,2026-05-21 08:00:59.795004
+Pune,2020,Absorbing aerosol index (proxy for dust/pollution),-1.351413325272598,success,2026-05-21 08:01:29.951656
+Pune,2021,Absorbing aerosol index (proxy for dust/pollution),-1.006131244438116,success,2026-05-21 08:01:29.951661
+Pune,2022,Absorbing aerosol index (proxy for dust/pollution),-0.20366697244303314,success,2026-05-21 08:01:29.951663
+Pune,2023,Absorbing aerosol index (proxy for dust/pollution),-0.3110577435655169,success,2026-05-21 08:01:29.951664
+Pune,2024,Absorbing aerosol index (proxy for dust/pollution),-0.3817662836245953,success,2026-05-21 08:01:29.951665
+Delhi,2020,Methane mixing ratio,1910.5180417938873,success,2026-05-21 08:01:53.789501
+Delhi,2021,Methane mixing ratio,1917.3609245536923,success,2026-05-21 08:01:53.789506
+Delhi,2022,Methane mixing ratio,1921.6297929796199,success,2026-05-21 08:01:53.789507
+Delhi,2023,Methane mixing ratio,1929.5975947695788,success,2026-05-21 08:01:53.789507
+Delhi,2024,Methane mixing ratio,1950.6708565540687,success,2026-05-21 08:01:53.789508
+Mumbai,2020,Methane mixing ratio,1901.8032961647646,success,2026-05-21 08:02:05.040285
+Mumbai,2021,Methane mixing ratio,1928.7209497289007,success,2026-05-21 08:02:05.040289
+Mumbai,2022,Methane mixing ratio,1909.3657261624953,success,2026-05-21 08:02:05.040290
+Mumbai,2023,Methane mixing ratio,1918.9524898089974,success,2026-05-21 08:02:05.040291
+Mumbai,2024,Methane mixing ratio,1931.001459486678,success,2026-05-21 08:02:05.040292
+Bangalore,2020,Methane mixing ratio,1890.945564049229,success,2026-05-21 08:02:20.968199
+Bangalore,2021,Methane mixing ratio,1901.6002801596183,success,2026-05-21 08:02:20.968203
+Bangalore,2022,Methane mixing ratio,1916.603178547595,success,2026-05-21 08:02:20.968204
+Bangalore,2023,Methane mixing ratio,1928.5340082097325,success,2026-05-21 08:02:20.968206
+Bangalore,2024,Methane mixing ratio,1929.9497038761049,success,2026-05-21 08:02:20.968206
+Kolkata,2020,Methane mixing ratio,1904.6582513153255,success,2026-05-21 08:02:47.729035
+Kolkata,2021,Methane mixing ratio,1935.7487367343501,success,2026-05-21 08:02:47.729039
+Kolkata,2022,Methane mixing ratio,1931.7625854103,success,2026-05-21 08:02:47.729040
+Kolkata,2023,Methane mixing ratio,1937.8480148239498,success,2026-05-21 08:02:47.729041
+Kolkata,2024,Methane mixing ratio,1942.6108850260127,success,2026-05-21 08:02:47.729042
+Chennai,2020,Methane mixing ratio,1891.8969966850875,success,2026-05-21 08:03:14.646562
+Chennai,2021,Methane mixing ratio,1909.6637997954888,success,2026-05-21 08:03:14.646567
+Chennai,2022,Methane mixing ratio,1921.3457315337862,success,2026-05-21 08:03:14.646568
+Chennai,2023,Methane mixing ratio,1917.6767115322743,success,2026-05-21 08:03:14.646569
+Chennai,2024,Methane mixing ratio,1908.8282476702846,success,2026-05-21 08:03:14.646569
+Hyderabad,2020,Methane mixing ratio,1910.0637926106945,success,2026-05-21 08:03:36.265866
+Hyderabad,2021,Methane mixing ratio,1918.7545293552907,success,2026-05-21 08:03:36.265871
+Hyderabad,2022,Methane mixing ratio,1931.501223615836,success,2026-05-21 08:03:36.265872
+Hyderabad,2023,Methane mixing ratio,1938.8121095053907,success,2026-05-21 08:03:36.265873
+Hyderabad,2024,Methane mixing ratio,1945.5926056840203,success,2026-05-21 08:03:36.265874
+Ahmedabad,2020,Methane mixing ratio,1908.7480061909537,success,2026-05-21 08:03:51.926654
+Ahmedabad,2021,Methane mixing ratio,1912.853761109726,success,2026-05-21 08:03:51.926660
+Ahmedabad,2022,Methane mixing ratio,1923.0921787150228,success,2026-05-21 08:03:51.926661
+Ahmedabad,2023,Methane mixing ratio,1928.8274207085549,success,2026-05-21 08:03:51.926662
+Ahmedabad,2024,Methane mixing ratio,1943.4029226141454,success,2026-05-21 08:03:51.926662
+Pune,2020,Methane mixing ratio,1891.1637149262158,success,2026-05-21 08:04:03.272220
+Pune,2021,Methane mixing ratio,1906.0324743860106,success,2026-05-21 08:04:03.272226
+Pune,2022,Methane mixing ratio,1920.1542915291332,success,2026-05-21 08:04:03.272228
+Pune,2023,Methane mixing ratio,1922.3177482048325,success,2026-05-21 08:04:03.272229
+Pune,2024,Methane mixing ratio,1931.361570735401,success,2026-05-21 08:04:03.272230
+Delhi,2020,SO2 column density,0.00017489253094694297,success,2026-05-21 08:04:30.793262
+Delhi,2021,SO2 column density,0.00016856535709904594,success,2026-05-21 08:04:30.793267
+Delhi,2022,SO2 column density,0.00018914908642675107,success,2026-05-21 08:04:30.793268
+Delhi,2023,SO2 column density,0.00017914744775490796,success,2026-05-21 08:04:30.793269
+Delhi,2024,SO2 column density,0.00017770028416643976,success,2026-05-21 08:04:30.793270
+Mumbai,2020,SO2 column density,0.0001405726861167118,success,2026-05-21 08:04:41.306327
+Mumbai,2021,SO2 column density,0.0001478256245579037,success,2026-05-21 08:04:41.306331
+Mumbai,2022,SO2 column density,0.00016860638357387085,success,2026-05-21 08:04:41.306332
+Mumbai,2023,SO2 column density,0.00015624068013126233,success,2026-05-21 08:04:41.306332
+Mumbai,2024,SO2 column density,0.00015738742596949645,success,2026-05-21 08:04:41.306334
+Bangalore,2020,SO2 column density,1.7296296959505416e-05,success,2026-05-21 08:05:22.653990
+Bangalore,2021,SO2 column density,3.352107185444235e-05,success,2026-05-21 08:05:22.653996
+Bangalore,2022,SO2 column density,3.649075269148839e-05,success,2026-05-21 08:05:22.653997
+Bangalore,2023,SO2 column density,3.194390545659556e-05,success,2026-05-21 08:05:22.653997
+Bangalore,2024,SO2 column density,2.9088004201209432e-05,success,2026-05-21 08:05:22.653998
+Kolkata,2020,SO2 column density,0.00017438386632947063,success,2026-05-21 08:05:48.147438
+Kolkata,2021,SO2 column density,0.00024340746292446624,success,2026-05-21 08:05:48.147444
+Kolkata,2022,SO2 column density,0.00021623506295485452,success,2026-05-21 08:05:48.147445
+Kolkata,2023,SO2 column density,0.0002543264605367657,success,2026-05-21 08:05:48.147446
+Kolkata,2024,SO2 column density,0.0002570941657671974,success,2026-05-21 08:05:48.147446
+Chennai,2020,SO2 column density,8.68168291168884e-05,success,2026-05-21 08:06:06.943571
+Chennai,2021,SO2 column density,0.00012297345419316817,success,2026-05-21 08:06:06.943575
+Chennai,2022,SO2 column density,0.0001378761625095886,success,2026-05-21 08:06:06.943576
+Chennai,2023,SO2 column density,0.0001278655751324546,success,2026-05-21 08:06:06.943577
+Chennai,2024,SO2 column density,7.745866122190521e-05,success,2026-05-21 08:06:06.943577
+Hyderabad,2020,SO2 column density,7.056170027168793e-05,success,2026-05-21 08:06:18.037948
+Hyderabad,2021,SO2 column density,9.538136043278212e-05,success,2026-05-21 08:06:18.037953
+Hyderabad,2022,SO2 column density,0.0001206835394379219,success,2026-05-21 08:06:18.037954
+Hyderabad,2023,SO2 column density,0.00012221313827164785,success,2026-05-21 08:06:18.037955
+Hyderabad,2024,SO2 column density,9.193597837195145e-05,success,2026-05-21 08:06:18.037956
+Ahmedabad,2020,SO2 column density,0.00013924830384317953,success,2026-05-21 08:06:30.560373
+Ahmedabad,2021,SO2 column density,0.00019367288218933806,success,2026-05-21 08:06:30.560378
+Ahmedabad,2022,SO2 column density,0.00016441597997204308,success,2026-05-21 08:06:30.560379
+Ahmedabad,2023,SO2 column density,0.00019099145938283486,success,2026-05-21 08:06:30.560380
+Ahmedabad,2024,SO2 column density,0.00017681699338067025,success,2026-05-21 08:06:30.560380
+Pune,2020,SO2 column density,7.493403484065128e-05,success,2026-05-21 08:06:43.297562
+Pune,2021,SO2 column density,9.314373253134481e-05,success,2026-05-21 08:06:43.297566
+Pune,2022,SO2 column density,9.370574286785421e-05,success,2026-05-21 08:06:43.297568
+Pune,2023,SO2 column density,0.00011532383811247617,success,2026-05-21 08:06:43.297568
+Pune,2024,SO2 column density,6.883896754395996e-05,success,2026-05-21 08:06:43.297569
